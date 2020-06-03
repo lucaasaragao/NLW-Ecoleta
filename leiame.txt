@@ -1,0 +1,3 @@
+Para rodar o banco use: npm run knex:seed
+
+para rodar o server da aplicação use: npm run dev
