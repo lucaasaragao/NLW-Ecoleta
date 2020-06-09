@@ -1,6 +1,6 @@
-<h1 align="center">
+<!-- <h1 align="center">
     <img alt="Ecoleta" title="Ecoleta" src=".github/ecoleta.svg" width="220px" />
-</h1>
+</h1>-->
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
