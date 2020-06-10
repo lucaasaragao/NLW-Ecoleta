@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Ecoleta" title="Ecoleta" src="https://github.com/Rocketseat/nlw-01-booster/blob/docs/create/.github/ecoleta.png" width="220px" />
+    <img alt="Ecoleta" title="Ecoleta" src="https://github.com/Rocketseat/nlw-01-booster/blob/docs/create/.github/ecoleta.svg" width="220px" />
 </h1>
 
 <p align="center">
@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-  <img alt="Ecoleta" src=".github/ecoleta.png" width="100%">
+  <img alt="Ecoleta" src="https://github.com/Rocketseat/nlw-01-booster/blob/docs/create/.github/ecoleta.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
